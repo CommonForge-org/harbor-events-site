@@ -1,0 +1,7 @@
+{
+  "regular": [
+    { "days": "Tuesday – Friday", "hours": "10:00 am – 6:00 pm" },
+    { "days": "Saturday", "hours": "10:00 am – 2:00 pm" },
+    { "days": "Sunday – Monday", "hours": "Closed" }
+  ]
+}

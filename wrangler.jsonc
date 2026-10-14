@@ -1,0 +1,6 @@
+// Deploy settings CommonForge reads for the release target (the Worker name comes from the release policy).
+{
+  "name": "harbor-events-site",
+  "main": "dist/index.js",
+  "compatibility_date": "2026-10-01"
+}

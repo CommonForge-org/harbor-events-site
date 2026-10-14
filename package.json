@@ -1,0 +1,12 @@
+{
+  "name": "harbor-events-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A small event-venue website, deployed as a Cloudflare Worker. Example client site for CommonForge.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node build.mjs && npx wrangler dev dist/index.js"
+  }
+}

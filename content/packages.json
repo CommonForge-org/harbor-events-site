@@ -1,0 +1,6 @@
+[
+  { "item": "Gather", "price": "from $64 / guest", "note": "Up to 60 guests · canapés and bar" },
+  { "item": "Celebrate", "price": "from $88 / guest", "note": "Up to 140 guests · seated dinner" },
+  { "item": "Signature", "price": "from $120 / guest", "note": "Up to 220 guests · full-day hire" },
+  { "item": "Late finish", "price": "$400", "note": "Flat, any package" }
+]
